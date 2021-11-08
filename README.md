@@ -20,6 +20,9 @@ The following topics will be uncovered in this project:
 To run the .ipynb file please run the following commands in terminal to have the necessary libraries installed:
 
 - python -m pip install newsapi-python
+- conda install -c conda-forge wordcloud 
+- python -m spacy download en_core_web_sm
+
 
 An API key will also be required, please obtain keys from here:
 https://newsapi.org/docs/
