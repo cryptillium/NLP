@@ -15,3 +15,15 @@ The following topics will be uncovered in this project:
 ---
 
 
+## Installations
+
+To run the .ipynb file please run the following commands in terminal to have the necessary libraries installed:
+
+- python -m pip install newsapi-python
+
+An API key will also be required, please obtain keys from here:
+https://newsapi.org/docs/
+
+
+- in the main directory create a file called .env and have the following content in it:
+<br>news_api = "API KEY"
